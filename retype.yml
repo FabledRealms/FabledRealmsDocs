@@ -1,0 +1,12 @@
+input: .
+output: .retype
+url: https://fabledrealms.net
+branding:
+  title: FabledRealms
+  label: Docs
+  logo: "./logo.webp"
+links:
+- text: placeholder link
+  link: https://google.com
+footer:
+  copyright: "&copy; FabledRealms {{ year }}. All rights reserved."
