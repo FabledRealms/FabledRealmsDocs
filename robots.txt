@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fabledrealms.net/sitemap.xml.gz
+Sitemap: https://fabledrealms.github.io/FabledRealmsDocs/sitemap.xml.gz
