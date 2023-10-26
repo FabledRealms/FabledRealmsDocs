@@ -1,2 +1,0 @@
-# FabledRealmsDocs
-Docs for FabledRealms
